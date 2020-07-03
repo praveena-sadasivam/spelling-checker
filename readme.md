@@ -1,1 +1,1 @@
-#spelling checker
+# spelling-checker
